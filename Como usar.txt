@@ -1,0 +1,17 @@
+Os comandos são:
+
+/gdinheiro
+Comando o qual irá abrir um prompt onde o player digitara o valor que deseja guardar no inventario
+
+
+/usardinheiro
+Comando o qual irá abrir um prompt onde o player digitara o valor que deseja tirar de seu inventario e voltar para carteira
+
+
+
+IMPORTANTE:
+Para que funcione é necessário criar o item "dinheiroguardado".
+Após a criação do item é necessário apenas colocar o start em seu server.cfg
+
+
+Você também pode optar por copiar o código de guardar e voltar dinheiro e coloca-los em qualquer server.lua que ja esteja utilizando
